@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+}
+
+#ImagineDragons {
+    border-style: groove;
+    border-width: medium;
+    border-color: crimson;
+}
+
+h3 {
+    text-decoration: underline;
+    color: darkgreen;
+}
+
+table, th, tr, td {
+    border: 2px;
+    border-style: double;
+}
+
+tr, th, td {
+    padding: 15px;
+}
+
+#songTitle {
+    font-style: italic;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.li {
+    font-style: italic;
+    font-weight: bold;
+}
